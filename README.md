@@ -1,1 +1,2 @@
 # MachineLearning
+Kamil Sordyl
